@@ -1,4 +1,7 @@
 # Ejercicios de JavaScript
+## Link de Proyecto
+https://leoito88.github.io/ejercicios-javascript/
+
 ## Descripción de los ejercicios
 ### Ejercicio 1
 Uso de for...of y Arrays: Escribe una función que reciba un array de números y retorne un nuevo array con cada número elevado al cuadrado. Utiliza un bucle for...of para iterar sobre los elementos del array.
