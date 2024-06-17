@@ -16,5 +16,5 @@ function elevarAlCuadrado(numeros) {
 let numerosOriginales = [1, 2, 3, 4, 5, 6];
 let numerosAlCuadrado = elevarAlCuadrado(numerosOriginales);
 
-console.log("Proponemos como ejemplo el array [1, 2, 3, 4, 5, 6]")
+console.log("1- Proponemos como ejemplo el array [1, 2, 3, 4, 5, 6]")
 console.log(numerosAlCuadrado); // Salida: [1, 4, 9, 16, 25, 36]
